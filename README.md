@@ -4,7 +4,7 @@ Site oficial da Equipe DallaPro Racing, especializada em competições de Enduro
 
 ## 🌐 Demo
 
-**Site ao vivo:** [https://dallaproracing.github.io/test-trabalho-individual/]
+**Site ao vivo:** [https://dallaproracing.github.io/Site-Equipe-DallaPro-Racing/]
 ## 📋 Funcionalidades
 
 ### 🏠 Página Principal
